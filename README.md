@@ -33,7 +33,7 @@ Check out the [Sample Post](#) for an immediate idea of what a post can contain.
 The naming convention goes as follows: 
 
 <code>
-"YEAR-MONTH-DATE-title.MARKUP"
+YEAR-MONTH-DATE-title.MARKUP
 </code>
 
 For example, if you authored your post on Dec 1, 2010, were using textile for your markup language, and wanted your post be called "Zhonda" then the file would be named:
