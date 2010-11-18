@@ -66,9 +66,3 @@ Of course! (We recommend it.)You'll need to have [Jekyll](http://github.com/mojo
 2. Make sure your post goes into the "_posts" sub directory. 
 3. If you're including any images, make sure you're using absolute paths
 
-## Additional Resources
-
-Riak Wiki
-Basho.com
-Download Riak 
-Basho's Code on GitHub
