@@ -2,8 +2,6 @@
 layout: default
 ---
 
-
-
 # A few words about your company and your use case
 
 ![sample logo](/images/logog.gif)
