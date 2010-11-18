@@ -41,10 +41,12 @@ Every post must start with a YAML header that declares which layout you're going
 This is what it looks like
 
 If you just want to use the default layout, start you file with a triple dash, include the following:
+
 <code>
 layout: default
 </code>
-and then close it off with another triple dash line.
+
+and then close it off with another triple dash line.	
 
 If you want to get super ambitious, you could even create a new layout specifically for your post. Just make sure to reference it appropriately in the YAML header and read up on how [layouts work in Jekyll](https://github.com/mojombo/jekyll/wiki/usage). 
 
