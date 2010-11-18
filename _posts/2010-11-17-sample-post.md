@@ -4,7 +4,7 @@ layout: default
 
 # A few words about your company and your use case
 
-![sample logo](images/logog.gif)
+![sample logo](http://pharkmillups.github.com/i-use-riak/images/logog.gif)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae nibh diam, a tincidunt est. Suspendisse lacinia felis non nisl varius sit amet feugiat justo semper. Morbi volutpat lorem id tortor commodo vitae semper dolor feugiat. Aenean id magna dui. Curabitur quam sapien, ultricies in placerat facilisis, volutpat non urna. Pellentesque lobortis varius lectus nec ullamcorper. Maecenas suscipit velit in mi pretium eu aliquam dui iaculis. Morbi nec porta odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In ornare lorem at augue bibendum at porttitor est mattis. Nullam sed ipsum vitae metus molestie mattis ut quis massa. Mauris tristique luctus ante non porttitor. Cras placerat, lectus ultricies congue semper, eros lectus gravida purus, eu congue sem magna id magna. Morbi tincidunt commodo ligula eget imperdiet.
 
