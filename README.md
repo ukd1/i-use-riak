@@ -42,7 +42,7 @@ For example, if you authored your post on Dec 1, 2010, were using textile for yo
 2010-12-01-Zhonda.textile		
 </code>
 
-**One Things You Must Do!!**
+**One Thing You Must Do!!**
 
 Every post must start with a YAML header that declares which layout you're going to use. The default layout (as seen in the [Sample Post](#)) is known as, well, 'default.' The YAML header is come configuration information that needs to go at the top of each post. This information is included between triple-dashed lines. 
 
