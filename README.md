@@ -1,6 +1,6 @@
 # Overview
 
-This is the repo for the content that makes up the ["I Use Riak" page](#).  I Use Riak is place for users to take a few minutes and talk about their applications and projects in which Riak and/or other [Basho software](http://github.com/basho) play a part. 
+This is the repo for the content that makes up the ["I Use Riak" page](http://pharkmillups.github.com/i-use-riak).  I Use Riak is place for users to take a few minutes and talk about their applications and projects in which Riak and/or other [Basho software](http://github.com/basho) play a part. 
 
 ## Contributing
 
@@ -38,11 +38,11 @@ The naming convention goes as follows: "YEAR-MONTH-DATE-title.MARKUP". For examp
 
 Every post must start with a YML header that declares which layout you're going to use. The default layout (as seen in the [Sample Post](#)) is known as, well, 'default.' The YAML header
 
-<code>
+"
 ---
 layout: default
 ---
-</code>
+"
 
 If you just want to use the default layout, copy and paste that in the top of your file and you'll be all set. 
 
