@@ -36,24 +36,27 @@ The naming convention goes as follows: "YEAR-MONTH-DATE-title.MARKUP". For examp
 
 **One Things You Must Do!!**
 
-Every post must start with a YML header that declares which layout you're going to use. The default layout (as seen in the [Sample Post](#)) is known as, well, 'default.' The YAML header
+Every post must start with a YAML header that declares which layout you're going to use. The default layout (as seen in the [Sample Post](#)) is known as, well, 'default.' The YAML header is come configuration information that needs to go at the top of each post. This information is included between triple-dashed lines. 
 
-"
----
+This is what it looks like
+
+If you just want to use the default layout, start you file with a triple dash, include the following:
+<code>
 layout: default
----
-"
+</code>
+and then close it off with another triple dash line.
 
-If you just want to use the default layout, copy and paste that in the top of your file and you'll be all set. 
+If you want to get super ambitious, you could even create a new layout specifically for your post. Just make sure to reference it appropriately in the YAML header and read up on how [layouts work in Jekyll](https://github.com/mojombo/jekyll/wiki/usage). 
 
-You could get crazy and create a new layout specifically for your post. This is fine. Just make sure to reference it appropriately in the YAML header and read up on how [layouts work in Jekyll](https://github.com/mojombo/jekyll/wiki/usage). 
+**Can I see how my post looks before I send a pull request** 
+
+Of course! You'll need to have [Jekyll](http://github.com/mojombo/jekyll) installed on your local machine in order to build the site. It just takes a moment, and once you've gotten that taken care of, you can follow the instructions to build the site locally.
 
 **Before you send a pull request**
 
 1. Make sure you've included the YAML Header 
 2. Make sure your post goes into the "_posts" sub directory. 
-
-
+3. If you're including any images, make sure you're using absolute paths
 
 ## Additional Resources
 
